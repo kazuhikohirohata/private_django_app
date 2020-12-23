@@ -1,4 +1,4 @@
-#!/Users/k_hirohata/djangogirls/myvenv/bin/python
+#!/Users/k_hirohata/djangogirls/myvenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
